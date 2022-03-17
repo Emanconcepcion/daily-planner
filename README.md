@@ -21,4 +21,4 @@ https://github.com/Emanconcepcion/daily-planner
 
 ## Screenshot
 
-<img src="./assests/word-day.png">
+<img src="./assests/work-day.png">
