@@ -16,8 +16,8 @@ A simple calendar app to help organize and schedule your daily work day. The web
 
 ## Resources
 
-https://emanconcepcion.github.io/daily-planner/
-https://github.com/Emanconcepcion/daily-planner
+- https://emanconcepcion.github.io/daily-planner/
+- https://github.com/Emanconcepcion/daily-planner
 
 ## Screenshot
 
