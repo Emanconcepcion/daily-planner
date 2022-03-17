@@ -14,7 +14,7 @@ function displayTime() {
 
 displayDay();
 displayTime();
-setInterval(displayTime, 10000);
+setInterval(displayTime, 1000);
 
 //storing element content into variable
 var row9ALabelEl = $("#row9ALabel");
